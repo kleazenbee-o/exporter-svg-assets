@@ -2,6 +2,6 @@
   "filters": [{
             "filterType": "Exclude",
             "name": "Filter keyword",
-            "regexp": "\\*\\(\"Vision Design Language\"\\)\\*"
+            "regexp": "\\*\\(\"vision\"\\)\\*"
         }]
 }
